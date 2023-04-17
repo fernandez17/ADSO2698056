@@ -1,4 +1,4 @@
-# Hoja-de-vida.
++# Hoja-de-vida.
 # Juan David Sarmiento Díaz
 ![foto](https://github.com/JuanSarmiento04/Hoja-de-vida./blob/main/imagenjuan.png)
 
