@@ -1,0 +1,13 @@
+# HOJA DE VIDA
+
+![HOLA](https://github.com/AlanWadith/PRUEBA/blob/main/IMAGENXD.jpg)
+
+|NOMBRES|APELLIDOS|CELULAR|FECHA DE NACIMIENTO| T.I |USUARIO EN GITHUB|DIRECCION|CORREO ELECTRONICO|
+|-------|---------|-------|-------------------|-----|---------------|--------|---------------|
+|ALAN WADITH|POLO HOWARD|3243525964|01/12/2005|1043587165|ALANWADITH01|CRA 24 A #29-186|ALANWADITH01@GMAIL.COM|
+
+# ESTUDIOS
+
+|COLEGIO|SENA|
+|-------|----|
+|CODESA|DIM|
