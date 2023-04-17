@@ -20,5 +20,5 @@ height="400">
 | **DATOS DE ESTUDIO**    |                             |
 |-------------------------|-----------------------------|
 | **COLEGIO**             | la milagrosa fe y alegria   |
-| **TECNICO EN SISTEMAS** | sena industrial y aviacion  |
+| **TECNICO EN SISTEMAS** | Sena industrial y aviacion  |
  
