@@ -1,23 +1,14 @@
-# hoja-de-vida
-cristian de jesus fernandez campo
-![foto de hoja de vida](https://user-images.githubusercontent.com/126476618/221681115-bc4757a3-47c5-4197-b7f6-06676fee2863.jpg)
-
-
-
-## datos personal 
-
-| nombre y apellido | cristian de jesus fernandez campo |
-|-------------------|-----------------------------------|
-|documeto de identidad| 1.129.499.343|
-|fecha de nacimiento| 12-sep-2005|
-|lugar de nacimiento| barranquilla |
-| estado civil | soltero|
-|direccion| carrera 14 con 109 a 15|
-| celular | 321-773-1655|
-|E-mail| cristiandejesus9343@gmail.com|
-
-## formacion academica
-
- |estudio en  | ied las mercedes san pablo | bachiller academico |
-  |--------- |-------------------------- |----------------------|
-   |sena   | tecnico         |sistema | 
+cristian-hojadevida#40
+# HOJA DE VIDA 
+![foto](https://user-images.githubusercontent.com/126476624/221582334-2aa80831-dbbd-413d-9f43-490cf8195039.png)
+| nombre   | cistian lugo monterroza |
+|Documento|104248189|
+|-------------------------------------
+| direccion | carrera 1d #51c-57|
+| estudios  |  Escuelas	Institucion Educativa distrital de Carrizal |
+| Sena |	ADSO |
+| cell | 3014814776 |
+| correo electronico | cristianlugomonterroza19@gmail.con |
+|correo electronico sena| cristianlugomonterroza19@gmail.com
+| usuario ithub | cristianlugo123 |
+|barrio | 7 de abril |
