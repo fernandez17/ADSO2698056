@@ -13,6 +13,6 @@
 
 # estudios
 
-colegio| Institucion educativa tajamar |
--------|-------------------------------|
-sena   | adso                          |
+| colegio| Institucion educativa tajamar |
+| -------|-------------------------------|
+|sena   | adso                          |
