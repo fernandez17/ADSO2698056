@@ -1,6 +1,7 @@
-# Rafael_Fajardo
+# TI1044615061fajardorafael
+
   hoja de vida 
-{foto}{https://user-images.githubusercontent.com/126476889/221584658-919f4af7-6c3f-48cf-9079-3d46bd10a814.jpg}
+![foto](https://user-images.githubusercontent.com/126476889/221584658-919f4af7-6c3f-48cf-9079-3d46bd10a814.jpg)
 | **nombre** | Rafael |
 |------------|--------|
 | **T.I** | 104415061 |
