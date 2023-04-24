@@ -10,3 +10,7 @@ Repositorio de la ficha
 | Competencia | Instructor |
 | --- | --- |
 | ESPECIFICACIÓN DE REQUISITOS DEL SOFTWARE | Henry Guzmán Escorcia |
+
+## Aprendices
+
+- [HERNANDEZ NIETO MAIYER DAVID]()
