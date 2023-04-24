@@ -13,4 +13,4 @@ Repositorio de la ficha
 
 ## Aprendices
 
-- [HERNANDEZ NIETO MAIYER DAVID]()
+- [HERNANDEZ NIETO MAIYER DAVID](hojas_vida\TI1041771410HERNANDEZMAIYER.md)
