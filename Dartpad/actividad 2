@@ -1,0 +1,60 @@
+void main(){
+  Aprendiz aprendiz1 = new Aprendiz(1129499343,"cristian12@gmail.com");
+
+  aprendiz1.dis = 1;
+  aprendiz1.edad = 17; 
+  
+  print(aprendiz1.id);
+  print(aprendiz1.dis);
+  print("EDAD: ${aprendiz1.edad}, \nEMAIL: ${aprendiz1.email}\n");
+  
+  Aprendiz aprendiz2 = new Aprendiz(1123445545,"juan234@gmail.com");
+
+  aprendiz2.dis = 1;
+  aprendiz2.edad = 17; 
+  
+  print(aprendiz2.dis);
+  print(aprendiz2.edad);
+  print("EDAD: ${aprendiz2.edad}, \nEMAIL: ${aprendiz2.email}\n");
+  
+   Aprendiz aprendiz3 = new Aprendiz(1129499343,"matias3312@gmail.com");
+
+  aprendiz3.dis = 1;
+  aprendiz3.edad = 17; 
+  
+  print(aprendiz3.dis);
+  print(aprendiz3.edad);
+  print("EDAD: ${aprendiz3.edad}, \nEMAIL: ${aprendiz3.email}\n");
+  
+  Aprendiz aprendiz4 = new Aprendiz(1129499343,"alanpolo456@gmail.com");
+
+  aprendiz4.dis = 1;
+  aprendiz4.edad = 17; 
+  
+  print(aprendiz4.dis);
+  print(aprendiz4.edad);
+  print("EDAD: ${aprendiz4.edad}, \nEMAIL: ${aprendiz4.email}\n");
+  
+  Aprendiz aprendiz5 = new Aprendiz(1129499343,"mayerwadi4556@gmail.com");
+
+  aprendiz5.dis = 1;
+  aprendiz5.edad = 17; 
+
+  print(aprendiz5.dis);
+  print(aprendiz5.edad);
+  print("EDAD: ${aprendiz5.edad}, \nEMAIL: ${aprendiz5.email}\n");
+  
+}
+  
+class Aprendiz{
+  int? id;
+  String?email;
+  int? dis;
+  int? edad;
+  String? nombre;
+  
+  Aprendiz(int id , email){
+    this.id = id;
+    this.email = email;
+  }
+}
